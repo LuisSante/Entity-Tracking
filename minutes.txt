@@ -1,0 +1,37 @@
+#left.mp4
+# simple case
+Person crossing the highway -> 14:30
+Bicycle crossing the highway -> 14:03
+Stroller -> 16:07
+FedEx truck -> 16:45
+Dog crossing the highway -> 19:12
+Disabled person -> 19:45
+Car for disabled people -> 19:45
+Woman in a red dress -> 22:00
+Man running -> 23:59
+Delivery person -> 24:15
+Worldwide Services truck -> 30:02
+Cars blocking the white lines -> 34:51
+Cars creating traffic -> 34:51
+Lady with her drink -> 36:37
+Man with his cigarette -> 39:54
+Blue motorcycle -> 42:16
+
+# complex case
+Car stops abruptly -> 22 seconds
+Man with A sign crossing the highway -> 2:40 - 2:44
+That name showing a sign with QR squares -> 3:16
+Man crossing the highway but not on the white lines -> 4:20
+Motorcycle recklessly entering a curb -> 11:08
+Car driving recklessly without a signal -> 13:24
+A family crossing the highway with a stroller -> 16:16
+FedEx truck -> 16:45
+Lady with a cane -> 17:08
+Man crossing the highway talking on the phone -> 17:49
+Man running because of a police car -> 24:00
+Car causing traffic -> 25:09
+Lady crossing the highway on the wrong side -> 26:42
+Car with lights on -> 33:42
+Person in traffic -> 34:34
+People crossing
+Lady with their children -> 36:47
