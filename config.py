@@ -3,10 +3,11 @@ class Config:
     second = 26 ## 4segundos antes del objetivo
     DURATION_SEC = 15
     
-    texts = [["Man in a bike"]]
-    csv_output = "bounding_boxes_dataset_bike.csv"
-    #texts = [["Black SUV"]]  
-    #csv_output = "bounding_boxes_dataset_car.csv"
+    #texts = [["Man in a bike"]]
+    #csv_output = "bounding_boxes_dataset_bike.csv"
+    texts = [["Black SUV"]]  
+    csv_output = "bounding_boxes_dataset_car.csv"
+    desface = 4
 
     video_path = "/home/luis/Documents/FGV/Laboratory/entity-detection/videos/study_case_1_HD.mp4"
     output_name = "clip.mp4"

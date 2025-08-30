@@ -43,7 +43,7 @@ class BoundingBoxDatasetExtractor:
                         'video_width': video_info.get('width', None),
                         'video_height': video_info.get('height', None),
                         'fps': fps,
-                        'timestamp_video': f'00:0{Config.minute}:{timestamp_sec + Config.second + 4}',
+                        'timestamp_video': f'{Config.minute * 60 + timestamp_sec + Config.second + Config.desface}',
                         'timestamp_sec': timestamp_sec ,
                         'timestamp_hms': str(pd.to_timedelta(timestamp_sec, unit='s')) if timestamp_sec is not None else None
                     })
